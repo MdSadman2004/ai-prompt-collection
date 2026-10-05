@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "aa7d3690e2f712c9dc71069cec303d5f3001adf6",
+  "source_tree": "8d7ccb727e32b3eb0f1627cf7538672857c23446",
+  "source_repository": "https://github.com/MdSadman2004/ai-prompt-collection",
+  "nodes": [
+    {
+      "label": "Image prompts",
+      "path": "Prompts/Image prompts",
+      "detail": "Numbered prompt drafts and expanded variations"
+    },
+    {
+      "label": "Cinematography",
+      "path": "Cinematography prompt",
+      "detail": "Scene and camera direction"
+    },
+    {
+      "label": "Arduino project",
+      "path": "Prompts/Projects/Arduiono/Code_sketch",
+      "detail": "Embedded-project prompt material"
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
